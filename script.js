@@ -3,5 +3,5 @@ h2.textContent = "This content added by JavaScript";
 document.querySelector("body").appendChild(h2)
 const myButton = document.querySelector(".horizontal-list");
 myButton.addEventListener('click', function () {
-    alert('Button was clicked!');
+    alert("don't touch me");
 });
