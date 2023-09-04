@@ -11,3 +11,12 @@ display: flex;
 .horizontal-list li{
 margin-right: 100px;
 }
+body {
+    background-image: url(milky-way-2695569_1280.jpg);
+    background-size: cover; /* Adjust to your preference */
+    background-position: center center; /* Adjust to your preference */
+    margin: 0; /* Remove default body margin */
+    padding: 0; /* Remove default body padding */
+    opacity: 10px;
+  }
+  
